@@ -1,5 +1,0 @@
-$ dig WWW.marcosluzjunior.me +nostats +nocomments +nocmd
-  > ;WWW.marcosluzjunior.me.                     IN      A
-  > WWW.marcosluzjunior.me.              3592    IN      CNAME   marcosluzjunior.github.io.
-  > marcosluzjunior.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-  >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
